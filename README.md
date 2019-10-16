@@ -18,6 +18,7 @@ The Valve Index is available as a full package - with headset, controllers and t
   * [The integrated speakers](#the-integrated-speakers)
   * [Display visuals](#display-visuals)
   * [Controllers](#controllers)
+* [SDK](#sdk)
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
 
@@ -87,6 +88,9 @@ The box contains all the equipments which related to Valve Index. Below is the l
 - 900mA fast charging with a 1100mAh capacity Li-Ion polymer battery
 - Over 7 hours of battery life
 - A Button, B Button, System Button, Trigger, Thumbstick, Track Button with Force Sensor, Grip Force Sensor, Finger Tracking, IMU
+
+## SDK
+This VR doesn't have its own sdk instead it uses Steamworks SDK. You can check the steam developer website through this link https://support.steampowered.com/kb_article.php?ref=1131-WSFG-3320. The documentation of OpenVR API can be found in this link https://github.com/ValveSoftware/openvr/wiki/API-Documentation . You can access the steamworks which is described as a free suite of tools available to any developer to use in their game or software on Steam through this link https://partner.steamgames.com/doc/home .
 
 ##  Putting The Device Back
 
