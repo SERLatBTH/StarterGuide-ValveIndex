@@ -96,4 +96,4 @@ After finish using the device, it is important to turn off, disassemble and put 
 
 ## More Documentations
 
-You can find the Safety, Maintenance, Regulatory, and Warranty & Agreement Information [here] https://steamcdn-a.akamaihd.net/store/valve_index/ValveIndexSafetyAndMaintenanceInfo.pdf.
+You can find the Safety, Maintenance, Regulatory, and Warranty & Agreement Information through this link https://steamcdn-a.akamaihd.net/store/valve_index/ValveIndexSafetyAndMaintenanceInfo.pdf.
