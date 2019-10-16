@@ -12,6 +12,12 @@ The Valve Index is available as a full package - with headset, controllers and t
   * [Assembly](#assembly)
   * [Charging The Batteries](#charging-the-batteries)
   * [Powering Up](#powering-up)
+  * [System Requirements](#system-requirements)
+* [Features](#features)
+  * [The Headset](#the-headset)
+  * [The integrated speakers](#the-integrated-speakers)
+  * [Display visuals](#display-visuals)
+  * [Controllers](#controllers)
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
 
@@ -76,7 +82,7 @@ The box contains all the equipments which related to Valve Index. Below is the l
 - Up to 144Hz refresh rate
 - 20 degree wider Field of View than HTC Vive
 - IPD adjustor with 58mm - 70mm range 
-### Features of Controllers
+### Controllers
 - USB-C and 2.4GHz Wireless connections
 - 900mA fast charging with a 1100mAh capacity Li-Ion polymer battery
 - Over 7 hours of battery life
