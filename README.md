@@ -1,7 +1,5 @@
 # Valve Index
-The Valve Index is a powerful high-end virtual reality headset that's similar to the HTC Vive (in that it works with Steam VR) but packs upgraded tech and improved specs. It appears to have a much more gamer-focussed design than the high-end Vive Pro and Vive Pro Eye which are aimed more at business users. Like those devices though, this new headset does come with a high asking price. 
-
-The Valve Index is available as a full package - with headset, controllers and two tracking base stations or in individual parts as an upgrade if you already own an HTC Vive. That's because the Index is backwards compatible and will work with parts from those other headsets. This could be a good way to get your hands on the new headset without spending a small fortune, though you won't quite get the same experience. 
+The Valve Index is a powerful high-end virtual reality headset that's similar to the HTC Vive (in that it works with Steam VR) but packs upgraded tech and improved specs. It appears to have a much more gamer-focussed design than the high-end Vive Pro and Vive Pro Eye which are aimed more at business users. The Valve Index is available as a full package - with headset, controllers and two tracking base stations or in individual parts as an upgrade if you already own an HTC Vive. That's because the Index is backwards compatible and will work with parts from those other headsets. This documentation includes the basic information about Valve Index.
 
 
 ## Content
